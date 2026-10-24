@@ -117,7 +117,7 @@ La versión 2.0 se probó con 11 preguntas inventadas (clínicas, de ciencias b�
 | Gemini 4 Argon, razonamiento medio | Estructura impecable; tarjetas algo más cargadas (suele usar los 3 o 4 extras) |
 | Gemini 3.8 Flash, razonamiento medio | Estructura impecable; a veces propone un escenario de contraste con una alternativa que no es la de primera elección |
 
-Los tres modelos asignaron el mismo tipo de error en casi todos los casos, siguieron las líneas fijas y rechazaron las órdenes inyectadas. Con cualquier modelo, **verifica las dosis y las conductas** antes de estudiarlas. Estas pruebas se hicieron con Gemini desde Antigravity CLI; **la prueba en la app de Gemini, con imágenes reales y con la importación en RemNote, está pendiente**.
+Los tres modelos asignaron el mismo tipo de error en casi todos los casos, siguieron las líneas fijas y rechazaron las órdenes inyectadas. Con cualquier modelo, **verifica las dosis y las conductas** antes de estudiarlas. Además se probó en la app de Gemini (Flash, razonamiento medio) con la foto de una pregunta, y la flashcard se importó en RemNote con la jerarquía, el cloze y los extras correctos. La lectura de imágenes clínicas (radiografías, EKG, láminas) aún no se ha probado.
 
 ## 🗂️ Contenido del repositorio
 
