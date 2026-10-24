@@ -1,0 +1,14 @@
+{
+  "name": "clinical-logic-mentor",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Skill tutora de preguntas de banco para los exámenes médicos del Perú: diagnostica el error y genera una flashcard para RemNote.",
+  "type": "module",
+  "license": "CC-BY-NC-ND-4.0",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
